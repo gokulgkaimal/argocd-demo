@@ -1,5 +1,8 @@
 Argo CD + Minikube (Hello App Project)
-🔹 What We Did
+
+
+ What We Did
+
 
 Started Minikube → local Kubernetes cluster.
 
@@ -15,7 +18,9 @@ Synced and deployed app → accessed NGINX via Minikube service.
 
 Tested GitOps → changed replicas in GitHub, Argo CD auto-synced, and pods updated.
 
-🔹 How We Did It
+
+ How We Did It
+
 
 Used Minikube as Kubernetes environment.
 
